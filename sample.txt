@@ -1,1 +1,10 @@
 This is my first git class - supraja
+
+Git commands:
+Git init
+git status
+git add .
+git status
+git commit -m "commit name"
+git remote add origin url
+git push origin remote
